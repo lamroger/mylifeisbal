@@ -4,7 +4,7 @@ Originally built with PHP and MySQL, MyLifeIsBal is back using Ruby, Rails and S
 
 Check out the Ruby on Rails Tutorial by Michael Hartl to learn how to build your own website.
 
-Special thanks to Mr.Ferraro for inspiring a generation to computer science!
+Special thanks to Mr.Ferraro for inspiring a generation through computer science!
 
 Created by Roger Lam
 https://github.com/mrlamroger/
