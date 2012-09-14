@@ -1,5 +1,10 @@
-# Ruby on Rails Tutorial: sample application
+MyLifeIsBal was started in 2010 as a place to share events in your day that made you say, "Yep, my life is Bal."
 
-This is the sample application for
-[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
-by [Michael Hartl](http://michaelhartl.com/).
+Originally built with PHP and MySQL, MyLifeIsBal is back using Ruby, Rails and SQLite.
+
+Check out the Ruby on Rails Tutorial by Michael Hartl to learn how to build your own website.
+
+Special thanks to Mr.Ferraro for inspiring a generation to computer science!
+
+Created by Roger Lam
+https://github.com/mrlamroger/

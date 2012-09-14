@@ -27,6 +27,10 @@ class User < ActiveRecord::Base
     Post.where("user_id = ?", id)
   end
 
+  def default
+    Post.reverse_order
+  end
+
   private
 
     def create_remember_token
